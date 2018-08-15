@@ -1,0 +1,83 @@
+commit bab43835378743de0debc487bd22343bd57478ae (HEAD -> master)
+Author: Karen Salazar <ksalazarcarpio@gmail.com>
+Date:   Tue Aug 14 23:50:41 2018 -0400
+
+    Adicion de archivo principal
+
+    Archivo index.html
+
+ index.html | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+
+commit e687474918ffdeb1f24e0ff4ac090e82e5f3e566
+Author: Karen Salazar <ksalazarcarpio@gmail.com>
+Date:   Tue Aug 14 23:48:24 2018 -0400
+
+    Cambio de estructura
+
+    renamed:    css/styles.css -> assets/css/styles.css
+            renamed:    img/img1.jpg -> assets/img/img1.jpg
+            renamed:    img/img2.jpg -> assets/img/img2.jpg
+            renamed:    js/main.js -> assets/js/main.js
+
+ {css => assets/css}/styles.css |   0
+ {img => assets/img}/img1.jpg   | Bin
+ {img => assets/img}/img2.jpg   | Bin
+ {js => assets/js}/main.js      |   0
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 535e89a77e0b53b3cbdb99f0fdcbbdda21d8515e
+Author: Karen Salazar <ksalazarcarpio@gmail.com>
+Date:   Tue Aug 14 23:42:38 2018 -0400
+
+    Cambio de nombre
+
+    Se cambia el nombre de imagenes a img
+
+ img/img1.jpg               | Bin 0 -> 66534 bytes
+ {imagenes => img}/img2.jpg | Bin
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 79bd6c0d7a95951a6d424310ce54d4d7fa093f0f
+Author: Karen Salazar <ksalazarcarpio@gmail.com>
+Date:   Tue Aug 14 23:34:02 2018 -0400
+
+    Adición de imagen
+
+    Se agrega la imagen 2
+
+ imagenes/img2.jpg | Bin 0 -> 58023 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b3c7a06b0037bec46906e274eedc622c01e703fc
+Author: Karen Salazar <ksalazarcarpio@gmail.com>
+Date:   Tue Aug 14 23:27:50 2018 -0400
+
+    Adición de archivos
+
+    Se adiciona archivos js y css
+
+ css/styles.css | 0
+ js/main.js     | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f56204d9fa7d1dfeb64b5454de6a5bcab99b7a4a
+Author: Karen Salazar <ksalazarcarpio@gmail.com>
+Date:   Tue Aug 14 23:26:09 2018 -0400
+
+    Cambio de nombre archivo readme
+
+    Se corrige el nombre
+
+ readme => README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 903ffa18ce88ee456f7a4d60c044418507d575b4
+Author: Karen Salazar <ksalazarcarpio@gmail.com>
+Date:   Tue Aug 14 23:13:41 2018 -0400
+
+    Commit inicial
+
+ readme | 1 +
+ 1 file changed, 1 insertion(+)
+

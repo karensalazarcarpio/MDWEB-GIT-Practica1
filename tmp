@@ -1,0 +1,37 @@
+diff --git a/readme b/README.md
+similarity index 100%
+rename from readme
+rename to README.md
+diff --git a/assets/css/styles.css b/assets/css/styles.css
+new file mode 100644
+index 0000000..e69de29
+diff --git a/assets/img/img1.jpg b/assets/img/img1.jpg
+new file mode 100644
+index 0000000..548b9f6
+Binary files /dev/null and b/assets/img/img1.jpg differ
+diff --git a/assets/img/img2.jpg b/assets/img/img2.jpg
+new file mode 100644
+index 0000000..dfa0321
+Binary files /dev/null and b/assets/img/img2.jpg differ
+diff --git a/assets/js/main.js b/assets/js/main.js
+new file mode 100644
+index 0000000..e69de29
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..dd94896
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,12 @@
++<!DOCTYPE html>
++<html>
++<head>
++       <title></title>
++</head>
++<body>
++<p>Hasta el momento se vio 2 unidades del curso
++lo que mas me gusto fue la forma tan sencilla de como se maneja los
++archivos localmente para luego poder subirlos a un repositorio remoto
++ </p>
++</body>
++</html>
+
